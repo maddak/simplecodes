@@ -9,7 +9,7 @@ int main()
  	char secondString[MAXLENGTH];
 	char result;
 
-	printf("1) the Second String will be searched in the first String so you moust choose first string larger than that one.\n");
+	printf("1) the Second String will be searched in the first String so you must choose first string larger than that one.\n");
 	printf("2) This operation is case sensitive.\n");
 	printf("3) Counting is from zero.\n\n");
 
